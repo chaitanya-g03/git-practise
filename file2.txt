@@ -1,2 +1,2 @@
-this is file 2 conflict
-this is an extra line
+
+i am upadting file2 
